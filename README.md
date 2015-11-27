@@ -1,7 +1,7 @@
 Archivo de Twitter
 -------------------
 
-Un repositorio histórico de los twitts de algunos políticos y personalidades públicas de la Argentina.
+Un repositorio histórico de los tuits de algunos políticos y personalidades públicas de la Argentina.
 Se actualiza periódicamente.
 
 
@@ -21,7 +21,7 @@ El formato de los archivos
 ID FECHA AUTOR CONTENIDO
 ```
 
-Y el link permanente de un tuit es `https://twitter.com/<AUTOR>/status/<ID>
+Y el link permanente de un tuit es `https://twitter.com/<AUTOR>/status/<ID>`
 
 
 Por ejemplo, el tuit archivado
